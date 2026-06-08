@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Cameron Snider
 
 ## About Me
-I am currently studying cyerbsecurity at Brigham Young University, where I also work a System Administrator. I love to learn about new things, and am constantly experimenting with my homelab. 
+I am currently studying cybersecurity at Brigham Young University, where I also work a System Administrator. I love to learn about new things, and am constantly experimenting with my homelab. 
 
 ## GitHub Purpose
 This repository serves as a platform to:
